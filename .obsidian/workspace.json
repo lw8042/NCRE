@@ -6,6 +6,7 @@
       {
         "id": "76487d68cf7dcc49",
         "type": "tabs",
+        "dimension": 81.34674922600618,
         "children": [
           {
             "id": "6da4465e464dfb63",
@@ -17,7 +18,26 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f53ff1e604b16925"
+          }
+        ]
+      },
+      {
+        "id": "c6bb641b0866ac1d",
+        "type": "tabs",
+        "dimension": 18.653250773993808,
+        "children": [
+          {
+            "id": "0120a63b9152c924",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件设计师/教程.md"
+              }
+            },
+            "group": "f53ff1e604b16925"
           }
         ]
       }
@@ -69,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "44e703a06fc41861",
@@ -150,11 +171,12 @@
   },
   "active": "6da4465e464dfb63",
   "lastOpenFiles": [
-    "教程.md",
+    "未命名.md",
     "软件设计师/教程.md",
+    "未命名.canvas",
+    "教程.md",
     "软件设计师/图片/image-20230419220811306.png",
     "README.md",
-    "未命名.canvas",
     "2023-05-05.md",
     "软件设计师/图片",
     "软件设计师/软件设计师.md",
