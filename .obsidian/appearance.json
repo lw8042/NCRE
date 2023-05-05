@@ -4,5 +4,8 @@
   "textFontFamily": "Times New Roman,Arial,Courier New",
   "interfaceFontFamily": "Times New Roman,Arial",
   "baseFontSize": 16,
-  "cssTheme": "obsidian"
+  "cssTheme": "obsidian",
+  "enabledCssSnippets": [
+    "snippets_line_height"
+  ]
 }
