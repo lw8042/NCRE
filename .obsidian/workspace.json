@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8c5ab02ee656a29",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7c31f3837963780d",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "396ab107da5cf8b6",
+  "active": "7c31f3837963780d",
   "lastOpenFiles": [
     "未命名/A.md",
     "软件设计师/教程/教程.md",
