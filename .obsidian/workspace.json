@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "7c31f3837963780d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件设计师/教程/教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "软件设计师/教程/教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "软件设计师/教程/教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "软件设计师/教程/教程.md"
+              }
             }
           }
         ]
@@ -140,10 +157,12 @@
   },
   "active": "396ab107da5cf8b6",
   "lastOpenFiles": [
+    "未命名/A.md",
+    "软件设计师/教程/教程.md",
+    "软件设计师/教程",
+    "软件设计师",
     "README.md",
     "未命名 1",
-    "未命名/A.md",
-    "未命名",
     "2023-05-05.md",
     "未命名/未命名 1/a.md",
     "未命名/未命名 1",
