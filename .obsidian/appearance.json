@@ -4,8 +4,9 @@
   "textFontFamily": "Times New Roman,Arial,Courier New",
   "interfaceFontFamily": "Times New Roman,Arial",
   "baseFontSize": 16,
-  "cssTheme": "obsidian",
+  "cssTheme": "theme",
   "enabledCssSnippets": [
-    "snippets_line_height"
+    "snippets_line_height",
+    "HyperMD-quote"
   ]
 }
