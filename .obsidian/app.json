@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "D:\\ProgramData\\obsidian",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }
