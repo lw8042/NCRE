@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "软件设计师/教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "软件设计师/教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "软件设计师/教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "软件设计师/教程.md"
               }
             }
           }
@@ -144,16 +144,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "janitor:Janitor: scan vault": false
     }
   },
   "active": "6da4465e464dfb63",
   "lastOpenFiles": [
-    "软件设计师/教程.md",
     "教程.md",
+    "README.md",
+    "软件设计师/教程.md",
     "未命名.canvas",
     "2023-05-05.md",
-    "README.md",
     "软件设计师/图片/image-20230419220811306.png",
     "软件设计师/图片",
     "软件设计师/软件设计师.md",

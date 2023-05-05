@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "ProxyGithub",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "mousewheel-image-zoom",
+  "obsidian-pandoc",
+  "janitor"
 ]
