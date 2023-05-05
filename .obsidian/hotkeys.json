@@ -109,6 +109,14 @@
       "key": "F"
     }
   ],
-  "editor:toggle-highlight": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
   "editor:open-search-replace": []
 }
