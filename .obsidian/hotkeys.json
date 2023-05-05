@@ -100,5 +100,15 @@
       "key": "F"
     }
   ],
-  "global-search:open": []
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-highlight": [],
+  "editor:open-search-replace": []
 }
