@@ -54,5 +54,14 @@
       ],
       "key": "`"
     }
-  ]
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:toggle-numbered-list": []
 }
