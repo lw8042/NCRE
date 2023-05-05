@@ -11,8 +11,12 @@
             "id": "6da4465e464dfb63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -139,11 +147,11 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "396ab107da5cf8b6",
+  "active": "6da4465e464dfb63",
   "lastOpenFiles": [
-    "未命名.canvas",
     "软件设计师/教程.md",
     "教程.md",
+    "未命名.canvas",
     "2023-05-05.md",
     "README.md",
     "软件设计师/图片/image-20230419220811306.png",
