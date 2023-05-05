@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "system",
   "textFontFamily": "Times New Roman,Arial,Courier New",
   "interfaceFontFamily": "Times New Roman,Arial",
   "baseFontSize": 16,
-  "cssTheme": "github"
+  "cssTheme": "obsidian"
 }
