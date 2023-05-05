@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件设计师/教程.md",
+                "file": "教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件设计师/教程.md",
+                "file": "教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件设计师/教程.md",
+                "file": "教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件设计师/教程.md"
+                "file": "教程.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "6412dad7fb1fd0d6",
   "lastOpenFiles": [
-    "教程.md",
+    "README.md",
     "软件设计师/教程.md",
+    "教程.md",
     "软件设计师/图片/image-20230419220811306.png",
     "软件设计师/图片",
     "软件设计师/软件设计师.md",
@@ -174,7 +175,6 @@
     "未命名/A.md",
     "软件设计师/教程",
     "软件设计师",
-    "README.md",
     "未命名 1",
     "2023-05-05.md",
     "未命名/未命名 1/a.md",
