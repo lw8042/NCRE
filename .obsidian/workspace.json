@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "6d3239e53a40d0e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a4a673d010761e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8c5ab02ee656a29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "603a3b81ae3a63f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "424747eb99925147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396ab107da5cf8b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "318c1549759956ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4059012f2a9ae2e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "44e703a06fc41861",
+    "type": "split",
+    "children": [
+      {
+        "id": "91e689556a199eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fa9991e0b23a2da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac5d663bb407e584",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3dbe89a0e7d5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec5ffeba6b7dcd7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "396ab107da5cf8b6",
+  "lastOpenFiles": [
+    "未命名 1",
+    "未命名/A.md",
+    "未命名",
+    "2023-05-05.md",
+    "未命名/未命名 1/a.md",
+    "未命名/未命名 1",
+    "a",
+    "a",
+    "软考/新建文件夹",
+    "软考/软件设计师/教程笔记.md",
+    "软考/软件设计师",
+    "软考"
+  ]
+}
