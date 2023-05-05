@@ -7,14 +7,7 @@
       "key": "1"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
+  "editor:toggle-bullet-list": [],
   "editor:toggle-numbered-list": [],
   "workspace:goto-tab-1": [],
   "workspace:goto-tab-2": [],
@@ -46,6 +39,30 @@
         "Mod"
       ],
       "key": "4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
     }
   ]
 }
