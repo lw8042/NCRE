@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "textFontFamily": "",
+  "textFontFamily": "Times New Roman,Arial,Courier New",
   "interfaceFontFamily": "Segoe UI,Arial",
   "baseFontSize": 12
 }
