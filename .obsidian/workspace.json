@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软件设计师/教程/教程.md",
+                "file": "软件设计师/教程.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件设计师/教程/教程.md",
+                "file": "软件设计师/教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件设计师/教程/教程.md",
+                "file": "软件设计师/教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件设计师/教程/教程.md"
+                "file": "软件设计师/教程.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "7c31f3837963780d",
   "lastOpenFiles": [
+    "软件设计师/图片/image-20230419220811306.png",
+    "软件设计师/图片",
+    "软件设计师/教程.md",
+    "软件设计师/软件设计师.md",
     "软件设计师/教程/教程.md",
     "软件设计师/教程/图片/Pasted image 20230505190704.png",
     "软件设计师/教程/图片",
@@ -163,7 +167,6 @@
     "a",
     "a",
     "软考/新建文件夹",
-    "软考/软件设计师/教程笔记.md",
-    "软考/软件设计师"
+    "软考/软件设计师/教程笔记.md"
   ]
 }
