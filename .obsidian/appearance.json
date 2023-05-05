@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "textFontFamily": "Segoe UI,Arial",
+  "interfaceFontFamily": "Segoe UI,Arial"
 }
